@@ -179,13 +179,7 @@ For each payment period:
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
-
-```markdown
-![Main Calculator](screenshots/main-calculator.png)
-![Amortization Schedule](screenshots/amortization.png)
-![Payment Breakdown](screenshots/payment-breakdown.png)
-```
+<img width="1918" height="857" alt="Image" src="https://github.com/user-attachments/assets/c9642f97-30bf-4884-af57-2e59b7f9155d" />
 
 ## 🤝 Contributing
 
@@ -211,9 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/heerr2005
+- Email: heerchotaliya78@gmail.com
+- LinkedIn: www.linkedin.com/in/heerchotaliya
 
 ## 🙏 Acknowledgments
 
